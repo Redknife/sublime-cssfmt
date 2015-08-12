@@ -1,0 +1,9 @@
+{
+  "name": "sublime-cssfmt",
+  "version": "1.0.0",
+  "dependencies": {
+    "cssfmt": "~0.6.2",
+    "postcss": "~4.1.16"
+  },
+  "license": "MIT"
+}
