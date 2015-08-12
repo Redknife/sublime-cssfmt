@@ -30,3 +30,6 @@ Depending on your OS (and Sublime Text version) the packages directories are:
 ## Plugin usage
 
 Press <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>c</kbd> or open "Tools" menu and select "Run CSSfmt" or open the Command Palette and write "Run CSSfmt"
+
+### In action
+![In action](inaction.gif)
